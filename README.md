@@ -1,24 +1,8 @@
-# currencies_board
+# Currencies board
 
-## Project setup
-```
-npm install
-```
+To check out repository just do next steps:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Clone it
+2. To install project run in terminal "npm install"
+3. To run project "npm run serve"
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
